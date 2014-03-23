@@ -1,7 +1,7 @@
 gauss
 =====
 
-Very Very Very simpel implementation of the gauss algorithm.
+Very simpel implementation of the gaussian elemination algorithm.
 
 Usage:
 gauss.py [ASCII-File]
